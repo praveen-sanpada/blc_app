@@ -1,0 +1,172 @@
+**Blockchain Developer Roadmap (Beginner to Advanced)**
+
+---
+
+### 📅 Phase 1: Blockchain Fundamentals (Week 1-2)
+
+#### Concepts:
+
+* What is Blockchain? Why it matters?
+* Centralized vs. Decentralized
+* Hashing, Cryptography, Digital Signatures
+* Blocks, Transactions, Merkle Trees
+* Consensus Mechanisms (PoW, PoS, DPoS, PBFT)
+
+#### Resources:
+
+* “Mastering Bitcoin” by Andreas Antonopoulos (Ch.1-4)
+* [Blockchain.com Learning Hub](https://www.blockchain.com/learning-portal)
+* [Simplilearn Blockchain Video Course](https://www.youtube.com/watch?v=SSo_EIwHSd4)
+
+#### Output:
+
+* Diagram of how a block is formed
+* Explain PoW in a 100-word blog post
+
+---
+
+### 👨‍💼 Phase 2: Ethereum & Solidity Basics (Week 3-4)
+
+#### Concepts:
+
+* Ethereum Blockchain, Gas, Gas Fees
+* Ethereum Virtual Machine (EVM)
+* Solidity Syntax, Types, Functions
+* Smart Contracts: Deploy, Interact, Read
+* Remix IDE, MetaMask Wallet
+
+#### Tools:
+
+* [Remix IDE](https://remix.ethereum.org)
+* [MetaMask](https://metamask.io/)
+
+#### Projects:
+
+* Hello World Contract
+* Simple Storage Contract
+* Lottery or Voting DApp
+
+---
+
+### 🚀 Phase 3: Intermediate Solidity + Web3 Integration (Week 5-6)
+
+#### Concepts:
+
+* Contract Deployment (Truffle/Hardhat)
+* Web3.js / Ethers.js Integration
+* Events, Modifiers, Mappings, Structs
+* Calling Contracts from JS frontend
+
+#### Tools:
+
+* Hardhat / Truffle
+* Web3.js / Ethers.js
+* Ganache (Local Ethereum Blockchain)
+
+#### Projects:
+
+* ERC-20 Token Contract + Web UI
+* Token Faucet using Web3
+
+---
+
+### 💡 Phase 4: Advanced Solidity + Security (Week 7-8)
+
+#### Concepts:
+
+* Inheritance, Libraries, Interfaces
+* Re-Entrancy, Overflow/Underflow, Front-running
+* OpenZeppelin Smart Contract Library
+* Testnets: Ropsten, Goerli, Sepolia
+* Unit Testing & Migrations
+
+#### Tools:
+
+* [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
+* [Slither](https://github.com/crytic/slither) (Security Scanner)
+* [MythX](https://mythx.io/)
+
+#### Projects:
+
+* Secure Multi-sig Wallet
+* Timelocked Fund Contract
+
+---
+
+### 🛍️ Phase 5: NFTs & Advanced DApps (Week 9-10)
+
+#### Concepts:
+
+* ERC-721 and ERC-1155 Standards
+* Metadata, IPFS, Pinata
+* NFT Minting, Buying, Selling
+* Gas Optimization Techniques
+
+#### Tools:
+
+* Moralis / Thirdweb
+* IPFS + Pinata
+* OpenSea testnet deployment
+
+#### Projects:
+
+* NFT Minting Portal (React + Solidity)
+* Gasless NFT drops
+
+---
+
+### 🔝 Phase 6: Full-Stack DApp Architecture (Week 11-12)
+
+#### Concepts:
+
+* Decentralized Storage (IPFS, Filecoin)
+* Frontend (React/Next.js) + Smart Contracts
+* Backend API (Node.js / Express) + Smart Contract Interaction
+* Web3Auth or WalletConnect
+
+#### Projects:
+
+* NFT Marketplace (Frontend + Contracts)
+* DAO Voting System (Quorum-based)
+
+---
+
+### ✨ Expert Level Extensions (Post Week 12)
+
+#### Concepts:
+
+* Layer 2 Scaling (zkRollups, Optimism, Arbitrum)
+* Chainlink Oracles, Real-world Data
+* Cross-chain Bridges (Polkadot, Cosmos IBC)
+* Blockchain Interoperability
+
+#### Tools:
+
+* zkSync, Arbitrum, Optimism
+* Chainlink VRF, Keepers
+
+#### Projects:
+
+* Prediction Market DApp
+* Cross-chain Token Swapping DApp
+* Web3 AI-based Reputation System
+
+---
+
+### 📈 Career & Interview Prep
+
+#### Concepts:
+
+* Gas optimization interview questions
+* Ethereum vs Solana tech stacks
+* Real-world blockchain adoption (finance, gaming, supply chain)
+
+#### Resources:
+
+* [Dapp University YouTube](https://www.youtube.com/c/DappUniversity)
+* [Ethernaut CTF](https://ethernaut.openzeppelin.com/)
+* GitHub repo of audited smart contracts
+
+---
+
+Let me know if you want a version as PDF, Trello board, Notion board, or ZIP with sample projects!
