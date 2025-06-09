@@ -1,0 +1,133 @@
+Perfect! Here's a **structured blockchain study plan** with 🔗 **PDFs**, 🎥 **videos**, and 📚 **practice projects** from **Beginner → Advanced**, broken into **phases**:
+
+---
+
+## 🚀 Personalized Blockchain Study Plan
+
+### 🔹 Phase 1: Fundamentals (Week 1–2)
+
+**Goal:** Understand blockchain concepts, structure, and purpose.
+
+#### ✅ Topics
+
+* What is Blockchain?
+* Cryptography basics (hashing, digital signatures)
+* Blocks, transactions, consensus
+* Distributed vs. centralized ledgers
+
+#### 🧠 Resources
+
+* 📄 [NIST Blockchain Overview (PDF)](https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8202.pdf)
+* 📄 [Blockchain Handbook – EU Report (PDF)](https://www.eublockchainforum.eu/sites/default/files/report_identity_v0.9.pdf)
+* 📘 [GeeksforGeeks Tutorial](https://www.geeksforgeeks.org/blockchain-tutorial/)
+* 🎥 [Simplilearn Blockchain Full Course (4 hrs)](https://www.youtube.com/watch?v=rpL6JKupjrM)
+
+---
+
+### 🔹 Phase 2: Hands-On Beginner Dev (Week 3–4)
+
+**Goal:** Start interacting with a blockchain and basic smart contracts.
+
+#### ✅ Topics
+
+* Ethereum basics and wallets
+* MetaMask setup
+* Writing first Solidity contract
+* Ganache & Truffle setup
+
+#### 🧠 Resources
+
+* 🎥 [FreeCodeCamp Solidity Full Course (16 hrs)](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
+* 🛠️ [Remix IDE](https://remix.ethereum.org/)
+* 📘 [Solidity by Example](https://solidity-by-example.org/)
+* 📘 [DApp University Blog & Tutorials](https://www.dappuniversity.com/articles)
+
+---
+
+### 🔹 Phase 3: Intermediate Smart Contracts + Web3.js (Week 5–6)
+
+**Goal:** Build basic decentralized apps (DApps).
+
+#### ✅ Topics
+
+* Web3.js / Ethers.js basics
+* Contract deployment
+* Wallet connection
+* Token creation (ERC20)
+
+#### 🧠 Resources
+
+* 📘 [Web3.js Docs](https://web3js.readthedocs.io/)
+* 📘 [Alchemy Web3 Developer Docs](https://docs.alchemy.com/docs)
+* 🎥 [DApp from Scratch – Dapp University](https://www.youtube.com/watch?v=3681ZYbDSSk)
+
+---
+
+### 🔹 Phase 4: Advanced Blockchain (Week 7–8)
+
+**Goal:** Understand L1 vs L2, consensus models, scaling, real networks.
+
+#### ✅ Topics
+
+* Proof of Stake vs Proof of Work
+* Blockchain types: Ethereum, Solana, Polygon
+* Layer 2 solutions (Rollups, zk-SNARKs)
+* IPFS, Chainlink, oracles
+
+#### 🧠 Resources
+
+* 📄 [Comparative Blockchain Paper (arXiv)](https://arxiv.org/pdf/2106.09336.pdf)
+* 📘 [Solana Official Docs](https://docs.solana.com/)
+* 📘 [Polygon SDK Docs](https://docs.polygon.technology/)
+* 📘 [Chainlink Docs](https://docs.chain.link/)
+
+---
+
+### 🔹 Phase 5: Projects + Real-World Use Cases (Week 9–12)
+
+**Goal:** Build a production-level project or portfolio DApps.
+
+#### 🛠️ Sample Projects
+
+* 🪙 Create your own token (ERC20/721)
+* 🔐 Voting DApp (decentralized)
+* 💰 NFT minting site
+* 📜 Decentralized ToDo with smart contract backend
+
+#### 📘 GitHub Resources
+
+* [mikeroyal/Blockchain-Guide](https://github.com/mikeroyal/Blockchain-Guide)
+* [frankiefab100/Blockchain-Development-Resources](https://github.com/frankiefab100/Blockchain-Development-Resources)
+
+---
+
+## 💡 Optional Extensions
+
+* Hyperledger for private blockchain
+* Rust + Solana dev
+* IPFS and Filecoin integration
+* Blockchain + AI applications
+
+---
+
+## 🔗 Downloadable PDFs
+
+* 📄 [NIST Blockchain PDF](https://nvlpubs.nist.gov/nistpubs/ir/2018/NIST.IR.8202.pdf)
+* 📄 [EU Blockchain Identity Report](https://www.eublockchainforum.eu/sites/default/files/report_identity_v0.9.pdf)
+* 📄 [Blockchain Architecture Deep Dive (arXiv)](https://arxiv.org/pdf/2106.09336.pdf)
+
+---
+
+## ✅ Summary Timeline
+
+| Week | Focus                      | Deliverables                         |
+| ---- | -------------------------- | ------------------------------------ |
+| 1–2  | Basics + Architecture      | PDF summaries, Blockchain quiz       |
+| 3–4  | Solidity + Smart Contracts | Hello World contract, Remix demo     |
+| 5–6  | Web3 integration           | Frontend + contract DApp             |
+| 7–8  | Advanced Tech              | Research paper summaries, whitepaper |
+| 9–12 | Project Build              | NFT/Voting App, GitHub repo          |
+
+---
+
+Would you like this plan as a **PDF**, **Notion board**, or **Trello template** to track your progress? Or I can generate a starter project zip (ERC20/NFT/Web3 DApp) for you!
